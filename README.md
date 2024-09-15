@@ -1,8 +1,3 @@
-Here's a basic `README.md` file for your project that connects to the Terra API and builds a Retrieval-Augmented Generation (RAG) system to recommend food options based on wearable data.
-
----
-
-# Wearable-Data-Food-Recommender
 
 This project connects to the Terra API to retrieve real-time health data from wearables (e.g., activity, nutrition, sleep) and uses a Retrieval-Augmented Generation (RAG) model to generate personalized food recommendations based on the retrieved data.
 
